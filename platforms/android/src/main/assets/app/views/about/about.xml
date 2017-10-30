@@ -1,0 +1,19 @@
+<Page>
+    <ScrollView>
+        <StackLayout>
+            <Label text="About Us" />
+            <Label textWrap="true" text="Tekmo is a small online..." />
+            <Label text="Our Mission" />
+            <Label textWrap="true" text="We exist to bring..." />
+            <Label text="History" />
+            <Label textWrap="true" text="In the early 90's, it all..." />
+            <Label textWrap="true" text="After Rescue Pups, it was..." />
+            <Label textWrap="true" text="As we grew older, the games..." />
+            <Label textWrap="true" text="After many year, we all started..." />
+            <Label textWrap="true" text="We remembered how cool it was to..." />
+            <Label textWrap="true" text="And then there was Vampire..." />
+            <Label textWrap="true" text="Lastly, Super Marshmallow Man..." />
+            <Button text="Home" tap="onTap"></Button>
+        </StackLayout>
+    </ScrollView>
+</Page>

@@ -1,0 +1,16 @@
+<Page>
+    <GridLayout rows="auto,*,*,*" columns="*,*">
+        <StackLayout row='0' col='0' rowSpan='1' colSpan='2'  style='background-color: purple; text-align: center' >
+            <Image src='res://icon' style='margin: 10 auto' width='75' height='75' /> 
+            <Label text='Couch Commander' textWrap='true' />
+            <Label text='$24.99' />
+        </StackLayout>
+        <!-- <Label row='0' col='1' text='Mummy Madness' textWrap='true' style='background-color: #EEEEEE; text-align: center' /> -->
+        <Label row='1' col='0' text='Pyro Robots' textWrap='true' style='background-color: #EEEEEE; text-align: center ' />
+        <Label row='1' col='1' text='Rescue Pups' textWrap='true' style='background-color: #CCCCCC; text-align: center' />
+        <Label row='2' col='0' text='Couch Commander' textWrap='true' style='background-color: grey; text-align: center ' />
+        <Label row='2' col='1' text='Vampire Valkyrie' textWrap='true' style='background-color: blue; text-align: center ' />
+        <Label row='3' col='0' text='Vampire Valkyrie' textWrap='true' style='background-color: #EEEEEE; text-align: center ' />
+        <Label row='3' col='1' text='Vampire Valkyrie' textWrap='true' style='background-color: green; text-align: center ' />
+    </GridLayout>
+</Page>

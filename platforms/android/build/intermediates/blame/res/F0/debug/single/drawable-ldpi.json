@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\hybrid_ns\\newNSApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\icon.png",
+        "source": "C:\\hybrid_ns\\newNSApp\\platforms\\android\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\hybrid_ns\\newNSApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\logo.png",
+        "source": "C:\\hybrid_ns\\newNSApp\\platforms\\android\\src\\main\\res\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "C:\\hybrid_ns\\newNSApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-ldpi\\background.png",
+        "source": "C:\\hybrid_ns\\newNSApp\\platforms\\android\\src\\main\\res\\drawable-ldpi\\background.png"
+    }
+]
